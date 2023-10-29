@@ -1,0 +1,4 @@
+body{
+  background-color: var(--bg);
+  transition: 3ms ease;
+}

@@ -1,0 +1,15 @@
+body{
+    overflow-x: hidden;
+}
+
+
+.topic{
+    text-align: center;
+    
+}
+#s_img>img{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+  
