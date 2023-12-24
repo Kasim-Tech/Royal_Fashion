@@ -1,11 +1,12 @@
-import React from "react";
+/* eslint-disable react/no-unescaped-entities */
+// import React from "react";
 import Slider from "react-slick";
 import '../Testimonials/Testimonial.module.css'
 import css from '../Testimonials/Testimonial.module.css'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import profile from '../../assets/profile1.png'
+// import profile from '../../assets/profile1.png'
 
 
 

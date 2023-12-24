@@ -70,6 +70,7 @@ export const ProductsData = [{
     price: '30',
     img: img5,
     type: 'Watch',
+    
 },
 
 
