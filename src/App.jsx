@@ -5,6 +5,7 @@ import Collections from './Components/Pages/Collection';
 import Brands from './Components/Pages/Brand';
 import New from './Components/Pages/New';
 import AboutUs from './Components/Pages/About';
+import Contact from './Components/Pages/Contact';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route path="/brands" element={<Brands />} />
           <Route path="/new" element={<New />} />
           <Route path="/about" element={<AboutUs />} />
+          <Route path="/contact" element={<Contact />} />
         </Routes>
       </div>
     </Router>

@@ -53,7 +53,7 @@ function Hero() {
           <RiShoppingBagFill />
           <>
             <button
-              className="btn btn-info"
+              className="btn btn-light"
               type="button"
               data-bs-toggle="offcanvas"
               data-bs-target="#staticBackdrop"
